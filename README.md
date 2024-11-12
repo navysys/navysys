@@ -15,6 +15,7 @@
 ### 💬 Contact
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:navyysys1@gmail.com)](mailto:navysys1@gmail.com)
 
+### 🌱 Stat
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=navysys&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **navysys/navysys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
