@@ -1,4 +1,4 @@
-## Hi there 👋
+## 개발자 지망생 서지호 입니다. 👋
 
 <!--
 **navysys/navysys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
