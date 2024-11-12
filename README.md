@@ -4,8 +4,8 @@
 + 현재 언리얼 엔진에 대해 공부하고 있습니다.
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=navysys)](https://github.com/anuraghazra/github-readme-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=navysys)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=navysys&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<br>
 
 
 ### ⚡ Skill
