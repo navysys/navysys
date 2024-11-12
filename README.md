@@ -4,7 +4,6 @@
 + 현재는 언리얼 엔진에 관련 있는 지식에 대하여 학습하고 있습니다.
 <br>
 
-
 ### ⚡ Skill
 <img src="https://img.shields.io/badge/unreal%20engine-%23313131.svg?&style=for-the-badge&logo=unreal%20engine&logoColor=white" /><img src="https://img.shields.io/badge/unity-%23000000.svg?&style=for-the-badge&logo=unity&logoColor=white" />
 <br>
@@ -12,8 +11,10 @@
 <br>
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)![Android Studio](https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white)
 <br>
+
 ### 📫 Contact
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:navyysys1@gmail.com)](mailto:navysys1@gmail.com)
+<br>
 
 ### 🌱 Stat
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=navysys&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
